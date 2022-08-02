@@ -1,0 +1,336 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Makaw - Premium Restaurant Template</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Favicon -->
+        <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+		
+		<!-- all css here -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/owl.carousel.min.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/material-design-iconic-font.min.css">
+        <link rel="stylesheet" href="css/meanmenu.css">
+        <link rel="stylesheet" href="css/animate.css">
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="css/slick.css">
+        <link rel="stylesheet" href="css/magnific-popup.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/responsive.css">
+        <link rel="stylesheet" href="css/color-switcher.css">
+        <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+        
+    </head>
+    <body>
+        <!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+	    
+        <!-- Header Area Start -->
+        <header class="header-area header-sticky">
+            <div class="mainmenu-area area-border">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-7 col-md-2 col-lg-3 col-6">
+                            <div class="logo">
+                                <a href="index.html"><img src="img/logo/logo.png" alt="MAKAW" width="122px" height="45px"></a>
+                            </div>
+                        </div>
+                        <div class="mobile-none col-xs-5 col-md-10 col-lg-9 col-6">
+                            <div class="menu-wrapper">
+                                <div class="main-menu mean-menu">
+                                    <nav>
+                                        <ul>
+                                            <!-- <li><a href="index.html">Home</a>
+                                                <ul>
+                                                    <li><a href="index.html">Homepage Style 1</a></li>
+                                                     <li><a href="index-2.html">Homepage Style 2</a></li>
+                                                    <li><a href="index-3.html">Water Ripple Effect</a></li>
+                                                    <li><a href="index-4.html">Cooking Effect</a></li>
+                                                    <li><a href="index-5.html">Video Background</a></li>
+                                                    <li><a href="index-6.html">Animate Text</a></li>
+                                                    <li><a href="index-7.html">Parallax Effect</a></li> 
+                                                </ul>
+                                            </li> -->
+                                            <li><a href="about.html">Menu</a></li>
+                                            <li class="active"><a href="menu.html">Gallery</a></li>
+                                            <li><a href="gallery.html">About</a></li>
+                                            <!-- <li><a href="blog.html">Blog</a>
+                                                <ul>
+                                                    <li><a href="blog-details-left-sidebar.html">Blog Left Sidebar</a></li>
+                                                    <li><a href="blog-details-right-sidebar.html">Blog Right Sidebar</a></li>
+                                                </ul>
+                                            </li> -->
+                                            <!-- <li><a href="#">Pages</a>
+                                                <ul>
+                                                    <li><a href="about.html">About Page</a></li>
+                                                    <li><a href="menu.html">Menu Page</a></li>
+                                                    <li><a href="gallery.html">Gallery Page</a></li>
+                                                    <li><a href="blog.html">Blog Page</a>
+                                                    <li><a href="blog-details-left-sidebar.html">Blog Left Sidebar</a></li>
+                                                    <li><a href="blog-details-right-sidebar.html">Blog Right Sidebar</a></li>
+                                                    <li><a href="contact.html">Contact Page</a></li>
+                                                </ul>
+                                            </li>
+                                            <li><a href="contact.html">Contact</a></li> -->
+                                        </ul>
+                                    </nav>
+                                </div>
+                                <div class="search-box-wrapper">
+                                    <a href="#" class="search-btn"><i class="zmdi zmdi-search"></i></a>
+                                    <form action="#" class="search-box">
+                                        <input type="text" placeholder="Search Here..">
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mobile-menu hidden-lg hidden-md"></div>
+                </div>
+            </div>
+        </header>
+        <!-- Header Area End -->
+        <!-- Banner Title Area Start -->
+        <!-- <div class="banner-title-area bg-4 text-center ptb-100 dark-overlay-7">
+            <div class="container">
+                <h1>Food Menu</h1>
+            </div>
+        </div> -->
+        <!-- Banner Title Area End -->
+        <!-- Menu Area Start -->
+        <div class="menu-area bg-light-1 pt-120 pb-120">
+            <div class="container">
+                <div class="section-title text-center">
+                    <h2>Our Food Menu</h2>
+                    <p>USoft - Restaurant Menu</p>
+                </div>
+                <div class="row">
+                    <div class="col-lg-2 col-md-3">
+						<div class="menu-list" id="menu_list">
+							<button class="active" data-filter="*">ALL <i class="zmdi zmdi-caret-right"></i></button>
+							<!-- <button data-filter=".breakfast">breakfast</button>
+							<button data-filter=".lunch">Lunch</button>
+							<button data-filter=".dinner">Dinner</button>
+							<button data-filter=".snacks">snacks</button>
+							<button data-filter=".party">party</button> -->
+						</div>	
+                    </div>
+                    <div class="col-lg-10 col-md-9">
+                        <div class="custom-row">
+                            <div class="grid" id="products">
+                                <!-- <div class="col-lg-6 grid-item breakfast dinner party">
+                                    <div class="menu-item">
+                                        <div class="menu-image">
+                                            <a href="menu.html"><img src="img/menu/1.jpg" alt=""></a>
+                                        </div>
+                                        <div class="menu-text">
+                                            <h4><a href="menu.html">Duck confit crepes</a><span>$25</span></h4>
+                                            <span>Lorem Ipsum is simply dummy industry.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 grid-item lunch dinner party">
+                                    <div class="menu-item">
+                                        <div class="menu-image">
+                                            <a href="menu.html"><img src="img/menu/2.jpg" alt=""></a>
+                                        </div>
+                                        <div class="menu-text">
+                                            <h4><a href="menu.html">Duck confit crepes</a><span>$25</span></h4>
+                                            <span>Lorem Ipsum is simply dummy industry.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 grid-item snacks breakfast">
+                                    <div class="menu-item">
+                                        <div class="menu-image">
+                                            <a href="menu.html"><img src="img/menu/3.jpg" alt=""></a>
+                                        </div>
+                                        <div class="menu-text">
+                                            <h4><a href="menu.html">Duck confit crepes</a><span>$25</span></h4>
+                                            <span>Lorem Ipsum is simply dummy industry.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 grid-item party dinner lunch">
+                                    <div class="menu-item">
+                                        <div class="menu-image">
+                                            <a href="menu.html"><img src="img/menu/1.jpg" alt=""></a>
+                                        </div>
+                                        <div class="menu-text">
+                                            <h4><a href="menu.html">Duck confit crepes</a><span>$25</span></h4>
+                                            <span>Lorem Ipsum is simply dummy industry.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 grid-item party dinner breakfast">
+                                    <div class="menu-item">
+                                        <div class="menu-image">
+                                            <a href="menu.html"><img src="img/menu/4.jpg" alt=""></a>
+                                        </div>
+                                        <div class="menu-text">
+                                            <h4><a href="menu.html">Duck confit crepes</a><span>$25</span></h4>
+                                            <span>Lorem Ipsum is simply dummy industry.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 grid-item snacks lunch">
+                                    <div class="menu-item">
+                                        <div class="menu-image">
+                                            <a href="menu.html"><img src="img/menu/2.jpg" alt=""></a>
+                                        </div>
+                                        <div class="menu-text">
+                                            <h4><a href="menu.html">Duck confit crepes</a><span>$25</span></h4>
+                                            <span>Lorem Ipsum is simply dummy industry.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 grid-item snacks breakfast">
+                                    <div class="menu-item">
+                                        <div class="menu-image">
+                                            <a href="menu.html"><img src="img/menu/5.jpg" alt=""></a>
+                                        </div>
+                                        <div class="menu-text">
+                                            <h4><a href="menu.html">Duck confit crepes</a><span>$25</span></h4>
+                                            <span>Lorem Ipsum is simply dummy industry.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 grid-item party dinner">
+                                    <div class="menu-item">
+                                        <div class="menu-image">
+                                            <a href="menu.html"><img src="img/menu/6.jpg" alt=""></a>
+                                        </div>
+                                        <div class="menu-text">
+                                            <h4><a href="menu.html">Duck confit crepes</a><span>$25</span></h4>
+                                            <span>Lorem Ipsum is simply dummy industry.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 grid-item lunch party">
+                                    <div class="menu-item">
+                                        <div class="menu-image">
+                                            <a href="menu.html"><img src="img/menu/7.jpg" alt=""></a>
+                                        </div>
+                                        <div class="menu-text">
+                                            <h4><a href="menu.html">Duck confit crepes</a><span>$25</span></h4>
+                                            <span>Lorem Ipsum is simply dummy industry.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 grid-item snacks breakfast">
+                                    <div class="menu-item">
+                                        <div class="menu-image">
+                                            <a href="menu.html"><img src="img/menu/8.jpg" alt=""></a>
+                                        </div>
+                                        <div class="menu-text">
+                                            <h4><a href="menu.html">Duck confit crepes</a><span>$25</span></h4>
+                                            <span>Lorem Ipsum is simply dummy industry.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 grid-item dinner lunch party">
+                                    <div class="menu-item">
+                                        <div class="menu-image">
+                                            <a href="menu.html"><img src="img/menu/7.jpg" alt=""></a>
+                                        </div>
+                                        <div class="menu-text">
+                                            <h4><a href="menu.html">Duck confit crepes</a><span>$25</span></h4>
+                                            <span>Lorem Ipsum is simply dummy industry.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 grid-item snacks lunch breakfast">
+                                    <div class="menu-item">
+                                        <div class="menu-image">
+                                            <a href="menu.html"><img src="img/menu/9.jpg" alt=""></a>
+                                        </div>
+                                        <div class="menu-text">
+                                            <h4><a href="menu.html">Duck confit crepes</a><span>$25</span></h4>
+                                            <span>Lorem Ipsum is simply dummy industry.</span>
+                                        </div>
+                                    </div>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Menu Area End -->
+        <!-- Footer Area Start -->
+        <footer class="footer-area">
+            <div class="footer-top footer-text-white bg-2 ptb-120 dark-overlay-78">
+                <div class="container">
+                    <div class="row">
+                        <!-- <div class="col-lg-4 col-md-6">
+                            <div class="single-footer-widget">
+                                <h4>Opening Hour</h4>
+                                <div class="footer-widget-text">
+                                    <span>Monday - Friday : <span><span class="dot">. . . . .</span> 8.00am - 9.00pm</span></span>
+                                    <span>Saturday : <span><span class="dot">. . . . . . . . . . .</span> 2.00pm - 9.00pm</span></span>
+                                    <span>Sunday : <span><span class="dot">. . . . . . . . . . . .</span></span><span class="text-color"> Close</span></span>
+                                </div>
+                            </div>
+                        </div> -->
+                        <div class="col-lg-4 col-md-6">
+                            <div class="single-footer-widget">
+                                <h4>Contact Us</h4>
+                                <div class="footer-widget-text address">
+                                    <span><span>Location :</span> 124/201 West Street, South<br>Shajahanpur, 1000 New Zealand.</span>
+                                    <span><span>Phone :</span> +8804 222 789</span>
+                                    <span><span>Email :</span> info@admin.com</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6">
+                            <div class="single-footer-widget">
+                                <!-- <h4>Stay Updated</h4>
+                                <form action="https://superbcoder.us17.list-manage.com/subscribe/post?u=53d660b97ee6d0d0edf33c405&amp;id=7a20bda443" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                                    <div id="mc_embed_signup_scroll" class="mc-form">
+                                        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Put Your Email" required>
+                                        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                        <!-- <div class="mc-news" aria-hidden="true">
+                                            <input type="text" name="b_6bbb9b6f5827bd842d9640c82_05d85f18ef" tabindex="-1" value="">
+                                        </div>
+                                        <button id="mc-embedded-subscribe" type="submit" name="subscribe" class="default-btn"><span>Subscribe</span></button> -->
+                                    </div>
+                                </form> -->
+                                <div class="social-icons">
+                                    <a href="#"><span class="zmdi zmdi-facebook"></span></a>
+                                    <a href="#"><span class="zmdi zmdi-twitter"></span></a>
+                                    <a href="#"><span class="zmdi zmdi-pinterest"></span></a>
+                                    <a href="#"><span class="zmdi zmdi-dribbble"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom bg-color text-center">
+                <div class="container">
+                    <span class="footer-text">&copy; <a href="http://superbcoder.com/" target="_blank">USoft</a> 2022. All Rights Reserved.</span>
+                </div>
+            </div>
+        </footer>
+        <!-- Footer Area End -->
+	    
+		<!-- all js here -->
+        <script src="js/vendor/jquery-3.2.1.min.js"></script>
+        <script src="js/popper.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/jquery.auderoSmokeEffect.min.js"></script>
+        <script src="js/owl.carousel.min.js"></script>
+        <script src="js/jquery.meanmenu.js"></script>
+        <script src="js/color-switcher.js"></script>
+        <script src="js/jquery.magnific-popup.js"></script>
+        <script src="js/ajax-mail.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/4.7.0/firebase.js"></script>
+        <script src="js/script.js"></script>
+    </body>
+</html>
