@@ -1,0 +1,252 @@
+{
+  "Et Çeşitleri": [
+    {
+      "details": "Kilogram 136.00 TL",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FK%C3%B6fte%2FKofte.PNG?alt=media&token=75aa4f56-07b2-410f-bb81-ac6d265e9f87",
+      "name": "Köfte",
+      "price": 29.5
+    },
+    {
+      "details": "Kilogram 140.00 TL",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FAc%C4%B1l%C4%B1%20K%C3%B6fte%2FAc%C4%B1l%C4%B1Kofte.PNG?alt=media&token=355134d2-7086-4c26-a035-f6858622ce86",
+      "name": "Acılı Köfte",
+      "price": 30.5
+    },
+    {
+      "details": "Kilogram 140.00 TL",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FKa%C5%9Farl%C4%B1%20K%C3%B6fte%2FKasarl%C4%B1Kofte.PNG?alt=media&token=40f75480-ca75-4276-ace0-39fe5dd30f6f",
+      "name": "Kaşarlı Köfte",
+      "price": 30.5
+    },
+    {
+      "details": "Kilogram 104.00 TL",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FTavuk%20Kanat%2FTavukKanat.PNG?alt=media&token=ad14bbd3-19d8-4bb8-9871-d44365f55295",
+      "name": "Tavuk Kanat",
+      "price": 27
+    },
+    {
+      "details": "Kilogram 104.00 TL",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FTavuk%20%C5%9Ei%C5%9F%2FTavukSis.PNG?alt=media&token=5586f025-2ada-4544-836f-dd6e9f26951c",
+      "name": "Tavuk Şiş",
+      "price": 26
+    },
+    {
+      "details": "Kilogram 128.00 TL",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FSucuk%2FSucuk.PNG?alt=media&token=68ea8a9a-687a-4093-a357-a57859af7b13",
+      "name": "Sucuk",
+      "price": 32
+    },
+    {
+      "details": "Beyti",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FBeyti%2FBeyti.PNG?alt=media&token=02805813-5f32-4cc4-972a-6c66b68a588c",
+      "name": "Beyti",
+      "price": 33
+    },
+    {
+      "details": "Kilogram 165.00 TL",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FAdana%20Kebap%2FAdanaKabap.PNG?alt=media&token=df57a755-84f9-4529-b987-cb20b8553e9f",
+      "name": "Adana Kebap",
+      "price": 33
+    },
+    {
+      "details": "Kilogram 188.00 TL",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FK%C3%BClbast%C4%B1%2FKulbasti.PNG?alt=media&token=feb1a738-8b4e-4049-994c-c53d394ec9a9",
+      "name": "Külbastı",
+      "price": 47
+    },
+    {
+      "details": "Kilogram 220.00 TL",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FKuzu%20%C5%9Ei%C5%9F%2FKuzuSis.PNG?alt=media&token=529aeaaa-8296-4723-8c77-1149c0c7ec60",
+      "name": "Kuzu Şiş",
+      "price": 44
+    },
+    {
+      "details": "Kilogram 216.00 TL",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FPirzola%2FPirzola.PNG?alt=media&token=43ed1c83-3a8b-40ce-a89b-9fb25ba02131",
+      "name": "Pirzola",
+      "price": 54
+    },
+    {
+      "details": "Kilogram 172.00 TL",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FKaburga%2FKaburga.PNG?alt=media&token=19b9dfb4-25c4-4f34-b17d-72698b6bbb3b",
+      "name": "Kaburga",
+      "price": 67
+    },
+    {
+      "details": "Kilogram 268.00 TL",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FLokum%2FLokum.PNG?alt=media&token=90c99270-55aa-4cab-ab4b-d6ca23814f5b",
+      "name": "Lokum",
+      "price": 67
+    },
+    {
+      "details": "Adet",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2F%C4%B0%C3%A7li%20K%C3%B6fte%2FIcliKofte.PNG?alt=media&token=770234fd-d555-4386-afe1-80d9874889e9",
+      "name": "İçli Köfte",
+      "price": 9.5
+    },
+    {
+      "details": "Hamburger",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FHamburger%2FHamburger.PNG?alt=media&token=de95bed2-2fa1-4854-ba1d-ab78cd52ffd2",
+      "name": "Hamburger",
+      "price": 19
+    },
+    {
+      "details": "İskender",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2F%C4%B0skender%2F%C4%B1skender.PNG?alt=media&token=134cd61c-98f0-4624-8ee3-d94c715c4563",
+      "name": "İskender",
+      "price": 37
+    },
+    {
+      "details": "Kilogram 340.00 TL",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FD%C3%B6ner%2FDoner.PNG?alt=media&token=7dcb2713-82ef-4c8c-bdaa-c1c10b055d7b",
+      "name": "Döner",
+      "price": 34
+    },
+    {
+      "details": "Et Çöp Şiş",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FEt%20%C3%87%C3%B6p%20%C5%9Ei%C5%9F%2FEtCopS%C4%B1s.PNG?alt=media&token=a4f0a3fd-4e74-4701-9cfa-2db3e046aafc",
+      "name": "Et Çöp Şiş",
+      "price": 43
+    }
+  ],
+  "Pideler": [
+    {
+      "details": "Etli Ekmek",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FEtli%20Ekmek%2FEtliekmek.PNG?alt=media&token=44f3218a-463c-4693-b55a-9f47b05d8e87",
+      "name": "Etli Ekmek",
+      "price": 26
+    },
+    {
+      "details": "Bıçakarası",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FB%C4%B1%C3%A7akaras%C4%B1%2FBicakArasi.PNG?alt=media&token=89c4e603-4af7-4f98-b6e7-270d61d315dc",
+      "name": "Bıçakarası",
+      "price": 29
+    },
+    {
+      "details": "Mevlana",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FMevlana%2FMevlana.PNG?alt=media&token=a2b7fb49-c471-46b4-8965-4b331b65fb85",
+      "name": "Mevlana",
+      "price": 27
+    },
+    {
+      "details": "Börek",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FB%C3%B6rek%2FBorek.PNG?alt=media&token=1a1b45f1-9f91-435b-8192-f9b0558dd8f2",
+      "name": "Börek",
+      "price": 26
+    },
+    {
+      "details": "Recai",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FRecai%2FRecai.PNG?alt=media&token=46a7aa76-04cb-4581-a2f3-ce4f07f24d57",
+      "name": "Recai",
+      "price": 29
+    },
+    {
+      "details": "Karışık Pide",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FKar%C4%B1%C5%9F%C4%B1k%20Pide%2FKarisikPide.PNG?alt=media&token=9a924a49-dc62-4be2-b12a-dc138ceace26",
+      "name": "Karışık Pide",
+      "price": 29
+    }
+  ],
+  "Salata ve Aparatifler": [
+    {
+      "details": "Çorba",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2F%C3%87%C3%B6mlek%20Yo%C4%9Furt%2FComlekYogurt.PNG?alt=media&token=3f7d7a3e-d726-4876-90b3-9adc65c2b3ea",
+      "name": "Çorba",
+      "price": 10
+    },
+    {
+      "details": "Double 17 TL",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FSalata%2FSalata.PNG?alt=media&token=345e1a99-bff2-4d05-91ec-492c5814bc81",
+      "name": "Salata",
+      "price": 12
+    },
+    {
+      "details": "Duble 17.00 TL",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FPiyaz%2FPiyaz.PNG?alt=media&token=ca4d631e-0fc1-4638-9952-cd5ca0a4e310",
+      "name": "Piyaz",
+      "price": 8
+    },
+    {
+      "details": "Çömlek Yoğurt",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2F%C3%87%C3%B6mlek%20Yo%C4%9Furt%2FComlekYogurt.PNG?alt=media&token=3f7d7a3e-d726-4876-90b3-9adc65c2b3ea",
+      "name": "Çömlek Yoğurt",
+      "price": 11
+    },
+    {
+      "details": "Mantar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FMantar%2FMantar.PNG?alt=media&token=b64992a4-a529-4356-be1e-ea26806d1af5",
+      "name": "Mantar",
+      "price": 11
+    },
+    {
+      "details": "Kızarmış Patates",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FK%C4%B1zarm%C4%B1%C5%9F%20Patates%2FK%C4%B1zarmisPatates.PNG?alt=media&token=6a4f63bd-1088-4011-bbb6-caa7f17895b6",
+      "name": "Kızarmış Patates",
+      "price": 9.5
+    }
+  ],
+  "Tatlılar": [
+    {
+      "details": "Ekmek Kadayıfı",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FEkmek%20Kaday%C4%B1f%C4%B1%2FEkmekkadayifi.PNG?alt=media&token=cdfe3c0e-5b24-49c7-b8e1-c3b6c3173d2d",
+      "name": "Ekmek Kadayıfı",
+      "price": 15
+    },
+    {
+      "details": "Sütlü Kadayıf",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FS%C3%BCtl%C3%BC%20Tel%20Kaday%C4%B1f%2FSutluTelKadayifi.PNG?alt=media&token=a4341f10-1666-46f3-92cc-90a256fbd279",
+      "name": "Sütlü Kadayıf",
+      "price": 15
+    },
+    {
+      "details": "Kabak Tatlısı",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FKabak%20Tatl%C4%B1s%C4%B1%2FKabakTatl%C4%B1s%C4%B1.PNG?alt=media&token=5c33930e-69e4-47fb-b70f-c2875a7ca3c5",
+      "name": "Kabak Tatlısı",
+      "price": 15
+    },
+    {
+      "details": "Sütlaç",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/Menumuz%2FS%C3%BCtla%C3%A7%2FSutlac.PNG?alt=media&token=fe81b332-0714-46ce-a368-75514cf28356",
+      "name": "Sütlaç",
+      "price": 15
+    }
+  ],
+  "İçecekler": [
+    {
+      "details": "1 LT",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/%C4%B0%C3%A7ecekler%2FCoca%20Cola%20%2F%20Ayran%2Fcoca.png?alt=media&token=2451ef15-7f1b-4941-824b-4769d9abea39",
+      "name": "Coca Cola / Ayran",
+      "price": 11.5
+    },
+    {
+      "details": "Tombul Ayran",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/%C4%B0%C3%A7ecekler%2FTombul%20Ayran%2Fayran.jpg?alt=media&token=20df0442-606a-44f7-babc-b67976b1a879",
+      "name": "Tombul Ayran",
+      "price": 7
+    },
+    {
+      "details": "Meşrubat",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/%C4%B0%C3%A7ecekler%2FMe%C5%9Frubat%2FMesrubat.jpg?alt=media&token=d9de5b88-aa8c-44bd-a6fe-5a327893799a",
+      "name": "Meşrubat",
+      "price": 8
+    },
+    {
+      "details": "Şalgam Suyu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/%C4%B0%C3%A7ecekler%2F%C5%9Ealgam%20Suyu%2FSalgam.jpg?alt=media&token=8554de76-3943-4c46-9261-6cbf0fae01d9",
+      "name": "Şalgam Suyu",
+      "price": 7
+    },
+    {
+      "details": "Soda",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/%C4%B0%C3%A7ecekler%2FSoda%2FSoda.jpg?alt=media&token=5d5f5285-9c76-492f-a26a-f51db82a960d",
+      "name": "Soda",
+      "price": 4
+    },
+    {
+      "details": "Su",
+      "image": "https://firebasestorage.googleapis.com/v0/b/onurfirebase-8f143.appspot.com/o/%C4%B0%C3%A7ecekler%2FSu%2FSu.jpg?alt=media&token=5abd67a2-863f-48dc-95fd-49507be77dad",
+      "name": "Su",
+      "price": 2.5
+    }
+  ]
+}
