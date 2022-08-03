@@ -1,5 +1,5 @@
 
-async function init(){
+function init(){
 var config = {
     apiKey: "AIzaSyDAl-sAyQGr3tRpK5TwfPz5lVbfyvdD5TM",
     authDomain: "onurfirebase-8f143.firebaseapp.com",
@@ -36,8 +36,10 @@ ref.on("value", function(snapshot) {
         for(var k=0; k<datas[i].length;k++){
              list_menu.innerHTML += '<div class="col-lg-6 menu-item filter-'+keys[i]+'" id="'+keys[i]+'"> <img src="'+datas[i][k].image+'" class="menu-img" alt=""> <div class="menu-content">'+
             '<a href="#">'+datas[i][k].name+'</a><span>'+datas[i][k].price+' TL</span></div> <div class="menu-ingredients">'+datas[i][k].details+'</div></div>'
+        
         }
     }
+   
 },function (error) {
     console.log("Error: " + error.code);
 });
