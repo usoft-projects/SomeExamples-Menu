@@ -406,14 +406,14 @@ input:-webkit-autofill:focus {
 --------------------*/
 
 .menu-title {
-    color: #272643;
+    color: #FD5D5D;
     font-size: 20px;
     display: inline-block;
 }
 
 .menu-rate {
     display: inline-block;
-    color: #272643;
+    color: #FD5D5D;
     font-size: 20px;
 }
 

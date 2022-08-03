@@ -6481,7 +6481,7 @@ a.thumbnail:hover {
 
 .media-right,
 .media>.pull-right {
-    padding-left: 25px
+    /* padding-left: 20px */
 }
 
 .media-left,
