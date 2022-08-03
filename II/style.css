@@ -70,7 +70,7 @@ h4,
 h5,
 h6 {
     margin: 0 0 10px;
-    line-height: 1.6;
+    line-height: 1.2;
     font-weight: 700
 }
 
@@ -406,15 +406,15 @@ input:-webkit-autofill:focus {
 --------------------*/
 
 .menu-title {
-    color: #FD5D5D;
-    font-size: 25px;
+    color: #272643;
+    font-size: 20px;
     display: inline-block;
 }
 
 .menu-rate {
     display: inline-block;
-    color: #FD5D5D;
-    font-size: 25px;
+    color: #272643;
+    font-size: 20px;
 }
 
 .single-menu .table {
