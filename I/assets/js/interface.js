@@ -49,7 +49,7 @@ init()
 function usoft(){
     Swal.fire({
         toast: true,
-        title: 'Podcast',
+        title: 'USoft - <b><u>USoft the clear choice</b></u> ',
         html:"You can reach us at <a href='mailto:usoft-projects@gmail.com'><b><u> this address.</b></u></a> <br> <p>&copy;Copyright 2022. All Rights Reserved.<br> <b>USoft </b></p>",
         imageUrl: 'assets/img/rocket.png',
         imageAlt: 'Custom image',
