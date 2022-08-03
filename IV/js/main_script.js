@@ -26,15 +26,14 @@ ref.on("value", function(snapshot) {
     var inter = ""
     var inter_2 = ""
     for(var i=0;i<keys.length;i++){
-        inter += '<li data-name=".'+keys[i].toLowerCase()+'"> <a href="#!"> '+keys[i]+'</a></li>'
+        inter += '<li data-name=".'+keys[i].toLowerCase()+'"> <a href="#'+keys[i]+'"> '+keys[i]+'</a></li>'
     }
     list_categories.innerHTML = '<li class="active" data-name="*"> <a href="#!">All Menu</a></li>'+ inter
 
     var list_menu = document.getElementById("menu_tabs")
     for(var i=0; i<keys.length;i++){
         for(var k=0; k<datas[i].length;k++){
-            
-            inter_2 += '<div class="single_menu col-sm-4 col-xs-12 All Menu '+keys[i].toLowerCase()+'"> <div class="menu_content wow fadeIn" data-wow-delay="0s">'+
+            inter_2 += '<div class="single_menu col-sm-4 col-xs-12 All Menu '+keys[i].toLowerCase()+' id="'+keys[i]+'""> <div class="menu_content wow fadeIn" data-wow-delay="0s">'+
                         '<h5>'+datas[i][k].name+'</h5> <p>'+datas[i][k].details+'</p><span>Fiyat: '+datas[i][k].price+' TL</span></div></div>'
         }
 

@@ -29,15 +29,13 @@ ref.on("value", function(snapshot) {
     
     var products = document.getElementById("products")
     for(var i=0;i<keys.length;i++){
-        products.innerHTML += '<div id="'+keys[i]+'">'
         for(var k=0;k<test[keys[i]].length;k++){
-            products.innerHTML += '<div class="col-xs-12 col-sm-6"><div class="single-menu"><div class="media" style="border-radius: 44px ; box-shadow: -9px 9px 0px -2px rgba(253,93,93,0.38);"> <div class="media-left">'+
+            products.innerHTML += '<div class="col-xs-12 col-sm-6"><div class="single-menu" id="'+keys[i]+'"><div class="media" style="border-radius: 44px ; box-shadow: -9px 9px 0px -2px rgba(253,93,93,0.38);"> <div class="media-left">'+
             ' <div class="menu-img" style="background-image: url(&apos;'+test[keys[i]][k].image+'&apos;)"><img src="images/menu/ovr.png" alt="">'+
             '</div></div><div class="media-right"> <table class="table"><tr><td><a href="#"><h3 class="menu-title">'+test[keys[i]][k].name+'</h3>'+
             ' </a></td><td><div class="menu-rate">'+test[keys[i]][k].price+' TL </div></td></tr></table><p>'+test[keys[i]][k].details+'</p>'+
             '</div></div></div><div class="space-30"></div></div>'
         }
-        products.innerHTML += '</div>'
     }
 
 }, function (error) {
