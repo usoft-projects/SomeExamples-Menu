@@ -406,14 +406,14 @@ input:-webkit-autofill:focus {
 --------------------*/
 
 .menu-title {
-    color: #FD5D5D;
+    color: #fcb941;
     font-size: 20px;
     display: inline-block;
 }
 
 .menu-rate {
     display: inline-block;
-    color: #FD5D5D;
+    color: #fcb941;
     font-size: 20px;
 }
 
@@ -830,5 +830,10 @@ p strong {
 }
 p{
     color:#272643;
-    font-size: 20px;;
+    font-size: 20px;
+}
+.starts{
+
+    color:white;
+    font-size: 15px;
 }
